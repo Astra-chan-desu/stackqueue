@@ -1,0 +1,8 @@
+# ninja log v5
+13	459	7252958210038890	queuelib/CMakeFiles/queuelib.dir/MyQueue.cpp.obj	ad4520bb91647152
+460	747	7252958210748902	queuelib/queuelib.lib	9782fcc817aceb83
+29	780	7252958213208913	queuetest/CMakeFiles/queuetest.dir/test_main.cpp.obj	ebf78dac3ad369c4
+20	838	7252958213808873	queuetest/CMakeFiles/queuetest.dir/QueueTest.cpp.obj	3dbc4ebc0a32d5cb
+5	1669	7252958222088876	gtest/CMakeFiles/gtest.dir/gtest-all.cc.obj	b1f309ce38696051
+1670	1813	7252958222848878	gtest/gtest.lib	fb2ee0ae39a73eb
+1813	2513	7252958229561358	queuetest/queuetest.exe	6c097ba0fe0978f4

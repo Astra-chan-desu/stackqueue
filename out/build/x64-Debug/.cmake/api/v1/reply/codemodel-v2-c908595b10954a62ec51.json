@@ -1,0 +1,276 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "gtest",
+					"jsonFile" : "directory-gtest-Debug-2618f1bde6c55d7920ba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "gtest",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "stack",
+					"jsonFile" : "directory-stack-Debug-c50bba7e2e65c9bfb5d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "stack",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "stacklib",
+					"jsonFile" : "directory-stacklib-Debug-7c50f9c8ea6093e71f3c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "stacklib",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "stacktest",
+					"jsonFile" : "directory-stacktest-Debug-7a9a230c2a45f45e7c4f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "stacktest",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "queue",
+					"jsonFile" : "directory-queue-Debug-54aac1d7774d67b8baff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "queue",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "queuelib",
+					"jsonFile" : "directory-queuelib-Debug-0eb0f2ccf9e6abf0b8b3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "queuelib",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "queuetest",
+					"jsonFile" : "directory-queuetest-Debug-d0549e976265b2b339f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "queuetest",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "MyCalculator",
+					"jsonFile" : "directory-MyCalculator-Debug-49f9044a59b013ec1d7e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyCalculator",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "RoundQueue",
+					"jsonFile" : "directory-RoundQueue-Debug-a9991599119a0ceb2b5a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "RoundQueue",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "All_labs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 8,
+					"id" : "MyCalculator::@c3b6fbbf7a119cd4de32",
+					"jsonFile" : "target-MyCalculator-Debug-8bb0748ad0c865871f0c.json",
+					"name" : "MyCalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "RoundQueue::@de79de638aebfe84286a",
+					"jsonFile" : "target-RoundQueue-Debug-36a92ab6f533a92a7e50.json",
+					"name" : "RoundQueue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "gtest::@0af4add9fe94340e763e",
+					"jsonFile" : "target-gtest-Debug-6ecf03f389f048635018.json",
+					"name" : "gtest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "queue::@d63f5f69c5a9088733ed",
+					"jsonFile" : "target-queue-Debug-e043618d427ab1b392f8.json",
+					"name" : "queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "queuelib::@feb5ad1c4a548183f933",
+					"jsonFile" : "target-queuelib-Debug-837cc6ac95658a7e5306.json",
+					"name" : "queuelib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "queuetest::@9470c680461c84a73740",
+					"jsonFile" : "target-queuetest-Debug-bca21c1f4c1ef8e9d479.json",
+					"name" : "queuetest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "stack::@b5371760465ddb38638a",
+					"jsonFile" : "target-stack-Debug-9b797d6b8185e7de9d96.json",
+					"name" : "stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "stacklib::@68bc901dfecd865a080a",
+					"jsonFile" : "target-stacklib-Debug-a1017c6543e104ae30a5.json",
+					"name" : "stacklib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "stacktest::@a8a06162b0bebba17ad2",
+					"jsonFile" : "target-stacktest-Debug-3dd7c8dab2cdaaf02147.json",
+					"name" : "stacktest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Downloads/AllLabs/AllLabs/out/build/x64-Debug",
+		"source" : "E:/Downloads/AllLabs/AllLabs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
